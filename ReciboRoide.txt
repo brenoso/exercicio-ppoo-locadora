@@ -1,0 +1,7 @@
+Cliente: Roide (17/03/1993)
+Locação: 08/06/2016 a 10/06/2016
+Vídeos:
+	Poderoso Chefao (200min) R$ 15.0
+	The Big Bang Theory (12ep) R$ 5.0
+	Laranja Mecanica (190min) R$ 20.0
+Valor total da locação: R$40.0
